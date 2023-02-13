@@ -7,7 +7,7 @@
   text6: "Valentine",
   text7: "Sai rồi nhé!! Em đã sẵn sàng đón nhận điều bất ngờ này chưa??",
   text8: "Dạ rùiiii",
-  text9: "Ban nhân sự trân trọng tuyên bố",
+  text9: "Ui khó thế đoán mãi k ra",
   text10: "Điều bất ngờ sắp tới rồi",
   text11:
     "Đếm đến 10 rồi bấm xuống cái button bên dưới he",
