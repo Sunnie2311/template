@@ -5,7 +5,7 @@
   text4: "Mời em chọn 1 trong 2 ngày dưới",
   text5: "Một ngày vu vơ nào đó",
   text6: "Valentine",
-  text7: "Sai rồi nhé!! Em đã sẵn sàng đón nhận điều bất ngờ này chưa??",
+  text7: "Sai rồi nhé!! Em đã sẵn sàng đón nhận" + <br> + "điều bất ngờ này chưa??",
   text8: "Dạ rùiiii",
   text9: "Ui khó thế đoán mãi k ra",
   text10: "Điều bất ngờ sắp tới rồi",
